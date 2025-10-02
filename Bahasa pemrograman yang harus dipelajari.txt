@@ -1,0 +1,9 @@
+Prioritas dari atas ke bawah.
+-Html dan CSS (Tailwind).
+Javascript (React)
+Java (fundamental)
+Python
+PHP (Laravel)
+Kotlin
+C++ (Opsional)
+Next js
