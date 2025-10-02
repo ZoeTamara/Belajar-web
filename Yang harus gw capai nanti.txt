@@ -1,7 +1,6 @@
 -Bisa ngoding. Minimal bisa Js + React buat front end. PHP + Laraver buat backend.
 -Bisa Bahasa Inggris
--Bisa matematika dasar
--Bisa Ekonomi dasar
+-Bisa Matematika Dasar
 -Bisa Nulis Novel/Cerpen
 -Jago Desain
 -Jago Public Speaking
